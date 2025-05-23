@@ -265,7 +265,8 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
-![Screenshot 2025-04-21 144704](https://github.com/user-attachments/assets/cc3c7c17-27a6-4094-b520-af956c6e9e89)
+![image](https://github.com/user-attachments/assets/e1b2dbf5-32f9-4077-a5cc-972608f63e6a)
+
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
