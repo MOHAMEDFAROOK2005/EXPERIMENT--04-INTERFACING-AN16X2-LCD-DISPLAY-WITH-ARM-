@@ -265,7 +265,8 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
-![image](https://github.com/user-attachments/assets/e1b2dbf5-32f9-4077-a5cc-972608f63e6a)
+![IoT](https://github.com/user-attachments/assets/ea764a34-1344-4096-9bbf-cb639d10a1a1)
+
 
  
  
