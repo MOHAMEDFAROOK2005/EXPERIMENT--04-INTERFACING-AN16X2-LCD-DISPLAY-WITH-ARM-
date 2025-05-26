@@ -265,14 +265,12 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
-![IoT](https://github.com/user-attachments/assets/ea764a34-1344-4096-9bbf-cb639d10a1a1)
+![Screenshot 2025-04-28 135820](https://github.com/user-attachments/assets/783243bf-90e5-43d1-87db-929bc4d975ff)
 
 
+
  
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
- ![image](https://github.com/user-attachments/assets/e542fd4a-c424-42bb-93a0-71c936742534)
 
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
